@@ -1,0 +1,1 @@
+Late Binding in VBScript can lead to runtime errors if the object or method being referenced doesn't exist.  This is because VBScript doesn't perform compile-time type checking for late-bound objects.
